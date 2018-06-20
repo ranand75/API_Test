@@ -69,14 +69,14 @@ public class RestClient {
 	
 	
 	
-	public static void main(String args[]) throws ParseException, IOException, ClientProtocolException
+/*	public static void main(String args[]) throws ParseException, IOException, ClientProtocolException
 	{
 		
 		//String url = "http://services.groupkt.com/country/get/iso2code/IN";
 		String url = "http://services.groupkt.com/country/get/all";
 		RestClient restClient = new RestClient(); 
 		restClient.get(url);
-	}
+	}*/
 	
 }
 	
